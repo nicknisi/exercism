@@ -12,7 +12,7 @@ class Squares
   end
 
   def difference
-    self.square_of_sum - self.sum_of_squares
+    square_of_sum - sum_of_squares
   end
 end
 
